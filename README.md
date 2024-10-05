@@ -17,4 +17,4 @@ Este proyecto es una copia de la interfaz de inicio de Pinterest, creado puramen
 ## 📞 Contacto
 + **WhatsApp:** +522461001580 📱
 + **Correo personal:** damarisabrilcabrera@gmail.com 📧
-+ **LinkedIn:** 💼
++ **LinkedIn:** https://www.linkedin.com/in/damaris-cabrera-pluma-48303732b/ 💼
