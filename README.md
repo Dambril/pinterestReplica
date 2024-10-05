@@ -12,6 +12,7 @@ Este proyecto es una copia de la interfaz de inicio de Pinterest, creado puramen
 + **Google Icons:** Para iconos personalizados. 🔧
 
 ## 🔍 Vista previa del Proyecto: Pendiente
+![Captura de pantalla (44)](https://github.com/user-attachments/assets/07d09e05-7d64-4618-81ce-5b636bf6b0d3)
 
 
 ## 📞 Contacto
