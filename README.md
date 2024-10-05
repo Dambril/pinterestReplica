@@ -11,7 +11,7 @@ Este proyecto es una copia de la interfaz de inicio de Pinterest, creado puramen
 + **CSS3:** Para el diseño y estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_. 🎨
 + **Google Icons:** Para iconos personalizados. 🔧
 
-## 🔍 Vista previa del Proyecto: Pendiente
+## 🔍 Vista previa del Proyecto:
 ![Captura de pantalla (44)](https://github.com/user-attachments/assets/07d09e05-7d64-4618-81ce-5b636bf6b0d3)
 
 
